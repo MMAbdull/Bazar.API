@@ -2,8 +2,7 @@
 using Bazar.API.Data;
 using Bazar.API.Models;
 
-//this is a test2 from momo
-//this is a test3 from momo
+
 
 namespace Bazar.API.Controllers
 {
